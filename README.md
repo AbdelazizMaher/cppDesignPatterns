@@ -4,7 +4,7 @@
 
 **`Patterns`** are often confused with algorithms because both concepts describe typical solutions to some known problems. 
 
-While an **`algorithm`** always defines a clear set of actions that can achieve some goal, a pattern is a more high-level description of a solution. The code of the same pattern applied to two different programs may be different.
+While an **`algorithm`** always defines a clear set of actions that can achieve some goal, a **`pattern`** is a more high-level description of a solution. The code of the same pattern applied to two different programs may be different.
 
 ## What Does the Pattern Consist of?
 
